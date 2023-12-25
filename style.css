@@ -1,0 +1,130 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.color {
+    color: chartreuse;
+
+}
+
+section {
+    display: flex;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(216, 96, 10);
+    padding: 5px 10px;
+    font-weight: 700px;
+    border-radius: 5px;
+
+
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half {
+    width: 50%;
+
+}
+
+.dream-big {
+    margin-top: 200px;
+}
+
+.ar {
+    color: darkgreen;
+}
+
+.my {
+    color: greenyellow;
+}
+
+.ron {
+    color: rgb(233, 0, 0);
+}
+
+.write {
+    color: cornflowerblue;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.nr {
+    color: rgb(4, 196, 255);
+}
+
+.ny {
+    color: rgb(22, 0, 221);
+}
+
+.non {
+    color: rgb(233, 0, 0);
+}
+
+.wrote {
+    color: rgb(17, 0, 255);
+}
+
+and {
+    color: rgb(30, 255, 0);
+}
+
+.naval {
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.fr {
+    color: rgb(239, 243, 11);
+}
+
+.fy {
+    color: rgb(172, 20, 243);
+}
+
+.for {
+    color: rgb(43, 0, 233);
+}
+
+
+
+
+link-button {
+    text-decoration: none;
+    background-color: rgb(237, 253, 4);
+    padding: 5px 10px;
+    font-weight: 700px;
+    border-radius: 5px;
+}
+
+
+
+.okay {
+    color: dodgerblue;
+}
+
